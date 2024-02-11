@@ -1,3 +1,5 @@
+# Прикрутить графику, можно через customtkinter
+
 from menu_functions import *
 
 
